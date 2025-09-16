@@ -47,7 +47,7 @@ Focused on:
    *  Triggers, Transactions & Error Handling
    *  Real-world database problem solving
 
-*  Certificate : https://intellipaat.com/academy/certificate-link/?Yz02MTkmdT0yNjMyNDkmZXh0PTE=
+Certificate : https://intellipaat.com/academy/certificate-link/?Yz02MTkmdT0yNjMyNDkmZXh0PTE=
 
    <img width="1471" height="864" alt="certificate" src="https://github.com/user-attachments/assets/b13306a4-6695-461c-ba86-4f9b8ba4019e" />
 
@@ -55,6 +55,6 @@ Focused on:
 
 ## 📖 Resources
 
-MySQL Documentation : https://dev.mysql.com/doc/
-W3Schools SQL Tutorial : https://www.w3schools.com/sql/
-GeeksforGeeks SQL Guide : https://www.geeksforgeeks.org/sql-tutorial/
+*  MySQL Documentation : https://dev.mysql.com/doc/
+*  W3Schools SQL Tutorial : https://www.w3schools.com/sql/
+*  GeeksforGeeks SQL Guide : https://www.geeksforgeeks.org/sql-tutorial/
