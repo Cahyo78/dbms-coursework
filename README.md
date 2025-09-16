@@ -58,3 +58,10 @@ Certificate : https://intellipaat.com/academy/certificate-link/?Yz02MTkmdT0yNjMy
 *  MySQL Documentation : https://dev.mysql.com/doc/
 *  W3Schools SQL Tutorial : https://www.w3schools.com/sql/
 *  GeeksforGeeks SQL Guide : https://www.geeksforgeeks.org/sql-tutorial/
+
+---
+
+## 📌 Author
+
+*  👤 Sandip Kumar 
+*  GitHub Profile - https://github.com/krSandip
