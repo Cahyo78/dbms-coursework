@@ -47,6 +47,10 @@ The goal of this project is to learn by doing – to build a strong foundation i
    
 Completed DBMS & SQL Certification Course from Intellipaat 🎓
 
+Certificate : https://intellipaat.com/academy/certificate-link/?Yz02MTkmdT0yNjMyNDkmZXh0PTE=
+
+   <img width="1471" height="864" alt="certificate" src="https://github.com/user-attachments/assets/b13306a4-6695-461c-ba86-4f9b8ba4019e" />
+
 ---
 
 ## 📖 Resources
